@@ -6,9 +6,6 @@
       "useexperimentalpipelinedtransformer": false,
       "enableiterativegsiupdates": false
     },
-    "frontend-ios": {
-      "enablexcodeintegration": true
-    },
     "auth": {
       "enablecaseinsensitivity": true
     },
