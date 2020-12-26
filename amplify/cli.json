@@ -5,9 +5,6 @@
       "validatetypenamereservedwords": true,
       "useexperimentalpipelinedtransformer": false,
       "enableiterativegsiupdates": false
-    },
-    "codegen": {
-      "useappsyncmodelgenplugin": true
     }
   }
 }
